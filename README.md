@@ -18,8 +18,26 @@
 
 - Por fim, o aplicativo também lida com um erro 404 enviando um arquivo HTML personalizado como resposta.
 
-# Features
+# Client
+- Inject Winlogon Module
+- Handler Commands
+- O Cliente executa comandos recebido pelo servidor replit.
 
--   [GitHub Stats Card](#github-stats-card)
+# Ajuda
+- Use o servidor no replit para se conectar com a vitima e enviar comandos.
+- powershell ARGS -> powershell.exe ARGS
+- exec_cmd ARGS -> cmd.exe ARGS
+- download_file URL FILENAME AUTOEXEC(TRUE,FALSE)
+
+# Resumo
+- O repositório do GitHub intitulado "RepRAT" contém um malware que foi projetado para obter acesso remoto não autorizado a sistemas comprometidos. O malware foi escrito em C# e é capaz de se esconder de processos e programas antivírus. Ele usa técnicas de engenharia social para enganar os usuários e se instalar nos sistemas. O malware é capaz de enviar informações confidenciais do sistema para um servidor de comando e controle, bem como executar comandos remotos no sistema comprometido. É importante lembrar que o uso de malware é ilegal e pode causar danos irreparáveis ​​às vítimas.
 
 
+
+
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)  
+
+Doações: 
+
+BTC: bc1q7hpqlas059kk89akdwarkjyc0md36aqk39wesn
