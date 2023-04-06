@@ -9,7 +9,6 @@ const readline = require('readline').createInterface({
   output: process.stdout
 });
 var log = console.log;
-console.log("test");
 
 let date_ob = new Date();
 let date = ("0" + date_ob.getDate()).slice(-2);
