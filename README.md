@@ -18,6 +18,11 @@
 
 - Por fim, o aplicativo também lida com um erro 404 enviando um arquivo HTML personalizado como resposta.
 
+<br>
+
+![Alt text](/Server.png "Title")
+
+
 # Client
 - Inject Winlogon Module
 - Handler Commands
